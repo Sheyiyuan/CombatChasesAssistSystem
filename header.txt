@@ -1,0 +1,10 @@
+// ==UserScript==
+// @name         Combat&Chases Assist System
+// @author       Sheyiyuan 冰红茶
+// @version      1.0.0
+// @description  一款COC战斗与追逐辅助系统
+// @timestamp    1674477074
+// 2024/10/23
+// @license      MIT
+// @homepageURL  https://github.com/Sheyiyuan/CCAS
+// ==/UserScript==
